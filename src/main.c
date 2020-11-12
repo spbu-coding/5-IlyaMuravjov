@@ -9,7 +9,6 @@ void other() {
 void input() {
     char buffer[8];
     scanf("%s", buffer);
-    printf("other: %p\n", other);
     printf("Input: %s\n", buffer);
 }
 
