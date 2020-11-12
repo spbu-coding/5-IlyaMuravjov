@@ -3,7 +3,7 @@
 
 void other() {
     printf("`other` function has been called\n");
-    exit(1);
+    exit(0);
 }
 
 void input() {
